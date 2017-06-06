@@ -1,4 +1,4 @@
-PELICULAS OP
+Autopartes San Antonio C.A. (modificacion de peliculasop)
 ======
 Programa realizado como proyecto de la materia **Contabilidad** del 9no semestre de Ingeniería de Sistemas en la Universidad Bicentenaria de Aragua.
 
