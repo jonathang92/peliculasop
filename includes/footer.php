@@ -4,12 +4,11 @@
         <ul class="list-inline">
           <!-- <li><strong>Indicadores:</strong></li> -->
           <li class="realizado">Realizado por :</li>
-          <li><i class="fa fa-user"></i> Jesús Rodríguez CI: 20.411.223</li>
-          <li><i class="fa fa-user"></i> Jonathan González CI: 20.630.880</li>
+          <li><i class="fa fa-user"></i> Jesús Villaroel CI: 20.000.000</li>
         </ul>
       </div>
       <div class="col-md-3">
-        <p class="text-left"><i class="fa fa-copyright"></i> 2017 PeliculasOP.com</p>
+        <p class="text-left"><i class="fa fa-copyright"></i> 2017 AutoRespuestos.com</p>
       </div>
   </div>
 </footer>

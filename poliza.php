@@ -114,7 +114,7 @@ if(isset($_GET['tipo'])){
 				</thead>
 				<tbody>
 					<tr>
-					  <th>Jesús Rodriguez</th>
+					  <th>Javier Villarroel</th>
 					  <th>Jonathan González</th>
 					  <th>Jonathan González</th>
 					  <th><?php echo $row_Consulta['fecha']; ?></th>
@@ -201,7 +201,7 @@ if(isset($_GET['tipo'])){
                 <?php } elseif($_tipo==4) { ?>
                   <h4>Poliza de Cheque</h4>
               <?php } ?>
-           			<h1><i class="fa fa-lg fa-film"></i> Peliculas OP</h1>
+           			<h3><i class="fa fa-lg fa-wrench"></i> <i class="fa fa-car"></i> Autopartes San Antonio C.A.</h3>
            		</div>
            		<div class="col-md-6" style="text-align: right;">
            			<h4>Fecha: <?php echo $row_ConsultaFuncion['fecha'];  ?></h4>

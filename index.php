@@ -15,23 +15,14 @@
   </div> -->
   <div class="container">
     <div class="well footer-custom col-md-12">
-      <h1 class="titulo"><i class="fa fa-lg fa-film"></i> Peliculas OP</h1>
+      <h1 class="titulo"><i class="fa fa-lg fa-wrench"></i> <i class="fa fa-car"></i> Autopartes San Antonio C.A.</h1>
       <h5 class="titulo">Sistema Contable</h5>
       <div class="col-md-12">
-        <p>Bienvenido al sistema contable de la tienda "<i class="fa fa-lg fa-film"></i> Peliculas OP " Realizado para la materia de Contabilidad de la Carrera Ingeneria en sistemas.</p>
-        <h3 class="">Descripcion por cada menú:</h3>
-        <ul style="line-height: 2em;">
-          <li><strong>Polizas</strong>: Aqui verá cuatro submenús: <br>
-            <i class="fa fa-fw fa-list"></i> <strong>Polizas de Ingreso</strong><br>
-            <i class="fa fa-fw fa-list"></i> <strong>Polizas de Egreso</strong><br>
-            <i class="fa fa-fw fa-list"></i> <strong>Polizas de Cheque</strong><br>
-            <i class="fa fa-fw fa-plus-square"></i> <strong>Agregar Poliza</strong>.
-          </li>
-          <li><strong>Libro Diario</strong></li>
-          <li><strong>Libro Mayor</strong></li>
-          <li><strong>Libro Hoja de Trabajo</strong></li>
-
-        </ul>
+        <p>Sistema contable de la empresa: <i class="fa fa-lg fa-wrench"></i> <i class="fa fa-car"></i> Autopartes San Antonio C.A.</p>
+        <br><br>
+        <img src="http://tgvi.com.au/img/tgvi_logo.png" alt=" Autopartes San Antonio C.A.">
+        <br><br><br>
+        <p>Elaborado para la materia contabilidad del 9no semestre de Ingenieria de Sistemas de la Universidad Bicentenaria de Aragua</p>
       </div>
     </div>
   </div>

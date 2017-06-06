@@ -123,7 +123,7 @@ $totalRows_ConsultaCuentas2 = mysqli_num_rows($ConsultaCuentas2);
     var count = $("#asientos .asiento").length;
     count = count+1;
     $('#asientos').append("\
-    <div class='asiento animated fadeInLeft'>\
+    <div class='asiento animated fadeInUp'>\
       <div class='col-md-10 col-md-offset-1'>\
         <h4>Asiento numero "+count+"</h4>\
       </div>\
